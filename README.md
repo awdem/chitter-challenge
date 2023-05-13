@@ -8,7 +8,6 @@ Made for Maker's Academy Week 4 - Web Applications
 My attempt at a small Twitter clone that allows the users to post messages to a public stream, based on the following user stories:
 
 You can find the full challenge description in docs/challenge_description.md.
--------
 
 ```
 STRAIGHT UP
